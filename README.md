@@ -34,7 +34,7 @@ This is a simple product landing page designed for a headphone brand. The page i
 ## File Structure
 
 - `index.html` - Contains the HTML structure of the landing page.
-- `style.css` - Stylesheet for the layout and design.
+- `prod.css` - Stylesheet for the layout and design.
 
 ## How to Run
 
