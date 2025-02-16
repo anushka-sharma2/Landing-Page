@@ -3,7 +3,7 @@ Product Landing Page - Headphone Website
 
 This is a simple product landing page designed for a headphone brand. The page is built using HTML and CSS, with a clean and modern design. It features a navigation bar, a promotional header section, and a detailed footer with company information.
 
-Project Structure
+<b>Project Structure</b>
 
 The project consists of two main files:
 
