@@ -11,7 +11,7 @@ index.html - The HTML file containing the structure and content of the landing p
 
 prod.css - The CSS file containing styles for the landing page.
 
-Features
+<b>Features</b>
 
 Responsive Design: The page layout adapts to different screen sizes.
 
@@ -23,31 +23,27 @@ Background Images: Transparent headphone images positioned in the background for
 
 Footer: Organized into sections (Check us out, Help, Community, Policies, Dealers) providing quick links to company-related information.
 
-How to Run
+<b>How to Run</b>
 
 Download or clone this repository.
 
 Open index.html in any modern web browser.
 
-Technologies Used
+<b>Technologies Used</b>
 
 HTML5
 
 CSS3
 
-Customization
+<b>Customization</b>
 
 Feel free to modify the content and styles to suit your needs. You can update the images, colors, fonts, and layout as desired.
 
-Preview
+<b>Preview</b>
 
 The page will render a simple and modern landing page with a promotional section, a navigation bar at the top, and a detailed footer.
 
-Screenshots
-
-Add screenshots here if desired.
-
-Contact
+<b>Contact</b>
 
 If you have any questions or need support, feel free to reach out.
 
